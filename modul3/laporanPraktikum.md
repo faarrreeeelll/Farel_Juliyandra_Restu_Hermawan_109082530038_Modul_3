@@ -126,6 +126,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel_Juliyandra_Restu_Hermawan_109082530038_Modul_3/blob/main/modul3/output/output-soal2.png)	
+![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel_Juliyandra_Restu_Hermawan_109082530038_Modul_3/blob/main/modul3/output/output-soal3.png)	
 [Program Go tersebut menghitung permutasi dan kombinasi menggunakan fungsi faktorial. Input dibaca dengan fmt.Scan, lalu dihitung permutasi (n!/(n−r)!) dan kombinasi (n!/(r!(n−r)!)) menggunakan fungsi factorial, kemudian hasilnya ditampilkan.]
 
